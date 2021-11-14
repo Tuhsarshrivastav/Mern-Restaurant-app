@@ -1,0 +1,28 @@
+.signup-container {
+	background-image: url('/images/img-signup-bkg.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	opacity: 0.8;
+}
+
+.signin-container {
+	background-image: url('/images/img-signin-bkg.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	opacity: 0.8;
+}
+
+.home-page {
+	height: 100vh;
+}
+
+.banner-image {
+	background-image: url('/images/banner.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	opacity: 1;
+	height: 60%;
+}
